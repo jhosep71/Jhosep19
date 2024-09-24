@@ -12,7 +12,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #ffe5e5;
+    background-color: #ffc5c5;
 }
 
 .container {
@@ -38,7 +38,7 @@ body {
 .btn a {
     text-decoration: none;
     color: #111;
-    background: #fff;
+    background: #ffffff;
     padding: 10px 25px;
     border-radius: 8px;
     box-shadow: 0.5rem 1rem 3rem hsl(0, 0, 0,0.3);
